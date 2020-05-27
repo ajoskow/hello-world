@@ -1,3 +1,3 @@
 # hello-world
-Training repository
+Training repository,
 I can code in Java, Javascript, and PHP
